@@ -1,0 +1,42 @@
+[1.026s] Invoking command in '/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/practica0 build --build-base /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build install --record /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/install.log --single-version-externally-managed install_data
+[1.195s] running egg_info
+[1.196s] creating build/practica0/practica0.egg-info
+[1.205s] writing build/practica0/practica0.egg-info/PKG-INFO
+[1.206s] writing dependency_links to build/practica0/practica0.egg-info/dependency_links.txt
+[1.206s] writing entry points to build/practica0/practica0.egg-info/entry_points.txt
+[1.206s] writing requirements to build/practica0/practica0.egg-info/requires.txt
+[1.206s] writing top-level names to build/practica0/practica0.egg-info/top_level.txt
+[1.206s] writing manifest file 'build/practica0/practica0.egg-info/SOURCES.txt'
+[1.235s] reading manifest file 'build/practica0/practica0.egg-info/SOURCES.txt'
+[1.235s] adding license file 'LICENSE'
+[1.236s] writing manifest file 'build/practica0/practica0.egg-info/SOURCES.txt'
+[1.236s] running build
+[1.236s] running build_py
+[1.237s] creating /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build
+[1.237s] creating /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build/lib
+[1.237s] creating /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build/lib/practica0
+[1.237s] copying practica0/__init__.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build/lib/practica0
+[1.237s] copying practica0/nodo_suscriptor.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build/lib/practica0
+[1.237s] copying practica0/nodo_publicador.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build/lib/practica0
+[1.237s] running install
+[1.242s] running install_lib
+[1.253s] creating /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages/practica0
+[1.253s] copying /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build/lib/practica0/__init__.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages/practica0
+[1.253s] copying /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build/lib/practica0/nodo_suscriptor.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages/practica0
+[1.253s] copying /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build/lib/practica0/nodo_publicador.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages/practica0
+[1.254s] byte-compiling /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages/practica0/__init__.py to __init__.cpython-312.pyc
+[1.254s] byte-compiling /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages/practica0/nodo_suscriptor.py to nodo_suscriptor.cpython-312.pyc
+[1.255s] byte-compiling /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages/practica0/nodo_publicador.py to nodo_publicador.cpython-312.pyc
+[1.255s] running install_data
+[1.255s] creating /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/share/ament_index
+[1.255s] creating /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/share/ament_index/resource_index
+[1.256s] creating /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/share/ament_index/resource_index/packages
+[1.256s] copying resource/practica0 -> /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/share/ament_index/resource_index/packages
+[1.256s] copying package.xml -> /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/share/practica0
+[1.256s] running install_egg_info
+[1.268s] Copying build/practica0/practica0.egg-info to /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages/practica0-0.0.0-py3.12.egg-info
+[1.269s] running install_scripts
+[1.351s] Installing nodo_publicador script to /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/practica0
+[1.351s] Installing nodo_suscriptor script to /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/practica0
+[1.351s] writing list of installed files to '/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/install.log'
+[1.378s] Invoked command in '/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/practica0 build --build-base /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build install --record /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/install.log --single-version-externally-managed install_data

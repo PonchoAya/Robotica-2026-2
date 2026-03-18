@@ -1,0 +1,3 @@
+[console_scripts]
+nodo_publicador = practica0.nodo_publicador:main
+nodo_suscriptor = practica0.nodo_suscriptor:main

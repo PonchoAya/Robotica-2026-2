@@ -1,0 +1,23 @@
+[0.634s] Invoking command in '/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/practica0 build --build-base /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build install --record /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/install.log --single-version-externally-managed install_data
+[0.835s] running egg_info
+[0.845s] writing build/practica0/practica0.egg-info/PKG-INFO
+[0.846s] writing dependency_links to build/practica0/practica0.egg-info/dependency_links.txt
+[0.847s] writing entry points to build/practica0/practica0.egg-info/entry_points.txt
+[0.847s] writing requirements to build/practica0/practica0.egg-info/requires.txt
+[0.848s] writing top-level names to build/practica0/practica0.egg-info/top_level.txt
+[0.870s] reading manifest file 'build/practica0/practica0.egg-info/SOURCES.txt'
+[0.870s] adding license file 'LICENSE'
+[0.871s] writing manifest file 'build/practica0/practica0.egg-info/SOURCES.txt'
+[0.871s] running build
+[0.871s] running build_py
+[0.872s] running install
+[0.876s] running install_lib
+[0.888s] running install_data
+[0.888s] running install_egg_info
+[0.902s] removing '/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages/practica0-0.0.0-py3.12.egg-info' (and everything under it)
+[0.902s] Copying build/practica0/practica0.egg-info to /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages/practica0-0.0.0-py3.12.egg-info
+[0.903s] running install_scripts
+[1.005s] Installing nodo_publicador script to /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/practica0
+[1.006s] Installing nodo_suscriptor script to /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/practica0
+[1.009s] writing list of installed files to '/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/install.log'
+[1.061s] Invoked command in '/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/install/practica0/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/practica0 build --build-base /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/build install --record /home/arrgusr/ROS2Dev/ws_sem26_2/src/practica0/build/practica0/install.log --single-version-externally-managed install_data
